@@ -7,7 +7,7 @@ and always like to learn more. So take a look, maybe there is one or the other t
 ![C#](https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png) | :green_book::green_book::green_book::green_book::notebook: | [![SQLite](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/32px-Sqlite-square-icon.svg.png)](http://sqlite.com/) | :green_book::green_book::green_book::notebook::notebook:
 ![Java](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/32x32/apps/java.svg) | :green_book::green_book::green_book::green_book::notebook: | [![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/32px-Postgresql_elephant.svg.png)](https://www.postgresql.org/) | :orange_book::orange_book::notebook::notebook::notebook:
 ![Python](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/32x32/apps/python.svg) | :green_book::green_book::green_book::notebook::notebook: | [![MySQL](https://github.com/hussainweb/hussainweb/blob/main/icons/mysql.png)](http://mysql.com) | :orange_book::orange_book::notebook::notebook::notebook:
-![Rust](https://github.com/hussainweb/hussainweb/blob/main/icons/rust.png) | :orange_book::orange_book::notebook::notebook::notebook:<br>(just learning) |  | 
+![Rust](https://github.com/hussainweb/hussainweb/blob/main/icons/rust.png) | :orange_book::orange_book::notebook::notebook::notebook:<br>(learning) |  | 
 
 
 I'm programming since 1995. I started with [GFA-Basic](https://en.wikipedia.org/wiki/GFA-BASIC) (my first program was a 
