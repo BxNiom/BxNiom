@@ -21,3 +21,8 @@ until I got stuck on C# for a long time. Then I switched to Linux and started to
 [![VS Code](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_50,h_50/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png)](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;[![Geany](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon.svg_B4bpI5c.png)](https://www.geany.org/)
 
 _Everything I program is (as far as possible) published under the [WTFPL](https://github.com/BxNiom/BxNiom/blob/main/WTFPL)._
+
+
+<p><a href="https://twitter.com/bxniom">
+  <img align="left" alt="BxNiom | Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a></p></br></br>
